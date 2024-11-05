@@ -2,9 +2,12 @@
 
 새로운 학습에 대해서 기록하고 관리하는 레포지토리
 
+<br>
+
 - [📚 신규 학습](#-신규-학습)
 - [⚙ Repository Log](#-repository-log)
 
+<br>
 
 ## ⚙ Repository Log
 | Version |          Date           | Detail                                |
