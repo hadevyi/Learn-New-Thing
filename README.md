@@ -5,7 +5,23 @@
 <br>
 
 - [📚 신규 학습](#-신규-학습)
+- [📁 폴더 구조](#-폴더-구조)
 - [⚙ Repository Log](#-repository-log)
+
+<br>
+
+## 📁 폴더 구조
+```
+📂 Learn-New-Thing
+ ┣ 📂 .github                            # Issue Template
+ ┣ 📂 01. 기본서
+ ┣ 📂 02. Backend
+ ┣ 📂 03. Frontend
+ ┣ 📂 04. Database
+ ┣ 📂 05. AI&ML
+ ┣ 📂 06. Automation
+ ┗ README.md
+```
 
 <br>
 
